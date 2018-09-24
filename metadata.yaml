@@ -1,5 +1,8 @@
 _repo: Simplex-Munditiis-Gentlemen_56287
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56287-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Arnold, Reginald Harvey
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '48765'
     url: http://www.gutenberg.org/2009/agents/48765
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56287#Simplex-Munditiis-Gentlemen
 gutenberg_issued: '2018-01-02'
 gutenberg_type: Text
 identifiers:
